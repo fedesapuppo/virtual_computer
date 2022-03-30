@@ -1,2 +1,2 @@
 # virtual_computer
-Virtual Computer project from CodeCademy
+Virtual Computer is and Object Oriented Programming project from CodeCademy
